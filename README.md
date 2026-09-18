@@ -8,3 +8,10 @@ A simple, Link Tree style website made to help teach people HTML.
 OR
 
 Fork the repository 
+
+---
+
+```
+README.md (what you are reading right now)
+    Index.html - The main text and images for the website
+    
