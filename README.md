@@ -13,5 +13,7 @@ Fork the repository
 
 ```
 README.md (what you are reading right now)
-    Index.html - The main text and images for the website
-    
+    index.html - The main text and images for the website.
+    script.js - Whenever someone clicks an element with the class .link, remove its focus.
+    style.css - change the colors on the website.
+```
