@@ -17,3 +17,5 @@ README.md (what you are reading right now)
     script.js - Whenever someone clicks an element with the class .link, remove its focus.
     style.css - change the colors on the website.
 ```
+---
+[License](https://github.com/CameronCodesStuff/Template?tab=MIT-1-ov-file)
