@@ -1,6 +1,6 @@
 # Template
 A simple, Link Tree style website made to help teach people HTML.
-
+[Live preview](https://cameroncodesstuff.github.io/Template/)
 ## Making your own
 
     git clone https://github.com/CameronCodesStuff/Template.git
